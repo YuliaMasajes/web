@@ -411,4 +411,8 @@ footer {
   .card-descripcion {
     font-size: 11px;
   }
+  .whatsapp-icon,
+  .phone-icon {
+    right: 15px; /* Ajusta la distancia desde la derecha */
+  }
 }
