@@ -341,16 +341,16 @@ footer {
   .instagram img,
   .whatsapp-icon img,
   .phone-icon img {
-    width: 35px;
+    width: 40px;
   }
   .whatsapp-icon {
     bottom: 50px; /* Ajusta la distancia desde abajo */
-    right: 30px; /* Ajusta la distancia desde la derecha */
+    right: 20px; /* Ajusta la distancia desde la derecha */
   }
 
   .phone-icon {
     bottom: 120px; /* Ajusta la distancia desde abajo */
-    right: 30px; /* Ajusta la distancia desde la derecha */
+    right: 20px; /* Ajusta la distancia desde la derecha */
   }
   .interior-slogan {
     margin-top: 200px;
